@@ -1,4 +1,4 @@
-![logo](./zhangjie-white.png?raw=true)
+![logo](./zhangjie.png)
 ## Let's fight Zhang Jie together
 
 Zhang Jie is a good man! He is the backbone of our network.
