@@ -1,4 +1,4 @@
-![logo](https://github.com/hallwann/anit-zj/blob/main/zhangjie-white.png?raw=true)
+![logo](./zhangjie-white.png?raw=true)
 ## Let's fight Zhang Jie together
 
 Zhang Jie is a good man! He is the backbone of our network.
